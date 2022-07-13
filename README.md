@@ -1,2 +1,7 @@
-# instagram-dio
-Desafio Dio - Recriando a página inicial do Instagram
+## Recriando a página inicial do **Intragam**
+
+#### Desafio da Dio
+
+Utilizando HTML e CSS com Flexbox
+
+😸
